@@ -6,7 +6,7 @@ Throughout 2 year in UIT, I have a thorough knowledge of C++, SQL, HTML, CSS. I 
 
 I am creative, dedicated, and social with everyone. During the time I study at University, I cooperated with Community Service Club, I also join various competitions about Ecommerce that help me and gain lots of experience of working well under pressure and working in a team.
 
-I'm currently learning Power BI and other tools that support the manipulation and processing of Big Data, and I am fascinated with this field
+I'm currently learning Power BI and other tools that support the manipulation and processing of Big Data, and I am fascinated with this field.
 
 Please feel free to contact me at tienmanngothuy@gmail.com to discuss potential collaborations.
 
